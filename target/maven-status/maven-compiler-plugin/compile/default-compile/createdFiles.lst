@@ -1,0 +1,9 @@
+com\yash\model\Questions.class
+com\yash\model\Subject.class
+com\yash\repository\SubjectRepo.class
+com\yash\repository\QuestionRepo.class
+com\yash\controller\SubjectController.class
+com\yash\TestSimulatotPocApplication.class
+com\yash\dao\QuestionDAOImpl.class
+com\yash\controller\QuestionsController.class
+com\yash\dao\QuestionDAO.class
